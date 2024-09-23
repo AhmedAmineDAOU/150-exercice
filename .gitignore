@@ -1,0 +1,10 @@
+# Ignore compiled class files
+*.class
+
+# Ignore output directory (out or build output)
+out/
+target/
+
+# Ignore IDE-specific files (for IntelliJ IDEA, for example)
+.idea/
+*.iml
