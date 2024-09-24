@@ -1,6 +1,6 @@
-package arraysandstrings;
+package arraysandstrings.ex1;
 
-public class Ex1MergeSortedArray {
+public class MergeSortedArray {
     public static void merge(int[] a, int m, int[] b, int n) {
         int k = m + n - 1; //k pointeur sur le dernier zero
         int j = n - 1; //pointeur sur le dernier element de a
